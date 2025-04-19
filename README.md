@@ -15,7 +15,7 @@ A deep learning project that helps identify plant diseases from leaf images. Jus
 
 ## 🛠️ Technologies Used
 
-### 🧠 Model Development
+#### 🧠 Model Development
 - **Model Type**: Convolutional Neural Network (CNN)  
 - **Framework**: TensorFlow  
 - **Libraries**:  
@@ -26,7 +26,7 @@ A deep learning project that helps identify plant diseases from leaf images. Jus
   - OS – for file handling  
   - JSON – for data storage and parsing  
 
-### 🌐 Web Application
+#### 🌐 Web Application
 - **Framework**: Streamlit – for building the interactive web interface
 ## 🌿 How it Works
 
@@ -34,10 +34,8 @@ A deep learning project that helps identify plant diseases from leaf images. Jus
 2. The CNN-based model processes the image.
 3. It classifies the disease and shows the prediction.
 
-## 🌿 How it Works
+## 🔁System Flow Diagram 
+![image alt](https://github.com/Sushree-ritu23/Plant-Disease-Prediction/blob/248bfc94a7b035704d51eeefd18fb560b2274511/plantdisease.png)
 
-1. Upload an image of a plant leaf.
-2. The CNN-based model processes the image.
-3. It classifies the disease and shows the prediction.
 
-![How it Works](images/how_it_works.png)
+
